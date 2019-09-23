@@ -1,0 +1,35 @@
+
+.count-particles{
+/*  background: white;
+ 
+  
+  left: 0;
+ 
+  color: #13E8E9;
+  font-size: .8em;
+  
+  text-indent: 4px;
+  
+  padding-bottom: 2px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;*/
+  top: 30%;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+
+
+
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  
+  background-color: ;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
